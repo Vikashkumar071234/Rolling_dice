@@ -1,16 +1,16 @@
 import random
-print("Best of luck for your game.")
+print("Best of luck for your game",🙅)
 random_integer=random.randint(1,6)
 print(random_integer)
 if random_integer==1:
-    print("Worst")
+    print("Worst",😢)
 elif random_integer==2:
-    print("good")
+    print("good",😔)
 elif random_integer==3:
-    print("very good")
+    print("very good",😐)
 elif random_integer==4:
-    print("Excellent")
+    print("Excellent",😀)
 elif random_integer==5:
-    print("ouststanding")
+    print("ouststanding",😀)
 else:
-    print("Marvellous")
+    print("Marvellous",😍)
